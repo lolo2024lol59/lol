@@ -1,5 +1,5 @@
 # lol
-(no desc is available)
+(CRITICAL SYSTEM FAILURE)
 
 on: push
 
